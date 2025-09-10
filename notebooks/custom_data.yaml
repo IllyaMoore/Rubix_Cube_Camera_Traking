@@ -1,0 +1,7 @@
+path: D:\Rubix Cube.v3i.yolov8
+
+train: train
+val: valid
+
+names:
+    0: Rubik Cube
